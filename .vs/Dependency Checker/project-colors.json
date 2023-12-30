@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9fa5c9e-135a-4b0b-9f5d-f77f245e30d2": {
+      "ProjectGuid": "a9fa5c9e-135a-4b0b-9f5d-f77f245e30d2",
+      "DisplayName": "Dependency Checker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

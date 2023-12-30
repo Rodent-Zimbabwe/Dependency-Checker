@@ -1,0 +1,11 @@
+C:\Users\anesu prince\source\repos\Dependency Checker\bin\Debug\Dependency Checker.exe.config
+C:\Users\anesu prince\source\repos\Dependency Checker\bin\Debug\Dependency Checker.exe
+C:\Users\anesu prince\source\repos\Dependency Checker\bin\Debug\Dependency Checker.pdb
+C:\Users\anesu prince\source\repos\Dependency Checker\obj\Debug\Dependency Checker.csproj.AssemblyReference.cache
+C:\Users\anesu prince\source\repos\Dependency Checker\obj\Debug\Dependency Checker.csproj.SuggestedBindingRedirects.cache
+C:\Users\anesu prince\source\repos\Dependency Checker\obj\Debug\Dependency_Checker.Form1.resources
+C:\Users\anesu prince\source\repos\Dependency Checker\obj\Debug\Dependency_Checker.Properties.Resources.resources
+C:\Users\anesu prince\source\repos\Dependency Checker\obj\Debug\Dependency Checker.csproj.GenerateResource.cache
+C:\Users\anesu prince\source\repos\Dependency Checker\obj\Debug\Dependency Checker.csproj.CoreCompileInputs.cache
+C:\Users\anesu prince\source\repos\Dependency Checker\obj\Debug\Dependency Checker.exe
+C:\Users\anesu prince\source\repos\Dependency Checker\obj\Debug\Dependency Checker.pdb
